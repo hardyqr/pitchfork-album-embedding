@@ -1,0 +1,18 @@
+{
+  "embeddings": [
+		{
+			"tensorName": "TF-IDF th0.35 weighted node2vec",
+      "tensorShape": [16965, 256],
+			"tensorPath": "oss_data/th0_35_weighted_256d_100wl.tsv",
+			"metadataPath": "oss_data/th0_35_weighted_meta.tsv"
+		},
+		{
+			"tensorName": "TF-IDF th0.4 weighted node2vec",
+      "tensorShape": [13843, 100],
+			"tensorPath": "oss_data/th0_4_weighted_100d_100wl.tsv",
+			"metadataPath": "oss_data/th0_4_weighted_meta.tsv"
+    }
+	]
+  ,
+  "modelCheckpointPath": "Demo datasets"
+}

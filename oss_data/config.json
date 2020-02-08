@@ -1,0 +1,7 @@
+"embeddings": [
+{
+    "tensorName": "WordNet node2vec",
+    "tensorShape": [87943, 128],
+    "tensorPath": "oss_data/wn_all_vec.tsv",
+    "metadataPath": "oss_data/wn_all_meta.tsv"
+ }
